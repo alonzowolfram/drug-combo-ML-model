@@ -1,2 +1,2 @@
 # Introduction
-Development of a machine-learning model for predicting drug-combination efficacy in individual patients. Code coming soon.
+Development of a machine-learning model for predicting drug-combination efficacy in individual patients. All the code needed to pre-process the data and train the machine-learning models is here; however, the file paths still point to the locations on my local machine. These paths will be corrected. The data cannot be uploaded to GitHub due to size constraints, but the data sources will be provided. A full README with instructions on how to run the code is forthcoming. 
